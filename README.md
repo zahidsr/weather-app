@@ -32,6 +32,11 @@ Modern ve kullanıcı dostu bir hava durumu uygulaması. React ve Tailwind CSS k
 - **Loading States**: Veri yüklenirken görsel geri bildirim
 - **Offline Desteği**: Arama geçmişi yerel olarak saklanır
 
+### Ekran Görüntüsü
+
+![alt text](<examp-1.png>)
+![alt text](<examp-2.png>)
+
 ## 🚀 Kurulum
 
 ### Gereksinimler
