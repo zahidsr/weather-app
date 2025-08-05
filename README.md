@@ -130,17 +130,3 @@ src/
 3. Commit yapın (`git commit -m 'Add amazing feature'`)
 4. Push yapın (`git push origin feature/amazing-feature`)
 5. Pull Request oluşturun
-
-## 📄 Lisans
-
-Bu proje MIT lisansı altında lisanslanmıştır.
-
-## 🙏 Teşekkürler
-
-- [Open-Meteo](https://open-meteo.com/) - Hava durumu verileri için
-- [Tailwind CSS](https://tailwindcss.com/) - CSS framework için
-- [React](https://reactjs.org/) - JavaScript kütüphanesi için
-
----
-
-**Not**: Bu uygulama eğitim amaçlı geliştirilmiştir. Ticari kullanım için lütfen gerekli izinleri alın.
