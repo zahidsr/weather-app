@@ -1,4 +1,4 @@
-# 🌤️ Weather ForeCasts App
+# 🌤️ Weather App
 
 Modern ve kullanıcı dostu bir hava durumu uygulaması. React ve Tailwind CSS kullanılarak geliştirilmiştir.
 
