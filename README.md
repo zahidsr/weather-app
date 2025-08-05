@@ -34,7 +34,7 @@ Modern ve kullanıcı dostu bir hava durumu uygulaması. React ve Tailwind CSS k
 
 ### Ekran Görüntüsü
 
-![alt text](<examp-1.png>)
+![alt text](<src/examp-1.png>)
 ![alt text](<examp-2.png>)
 
 ## 🚀 Kurulum
